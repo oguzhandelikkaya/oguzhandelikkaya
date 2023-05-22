@@ -1,7 +1,7 @@
 ### Merhaba👋
 👍 Ben Oğuzhan Delikkaya. Sakarya Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Veri bilimi, veri görselleştrime ve SQL alanında kendimi geliştirmekteyim. Yeni teknolojiler öğrenmeye hevesli birisiyim ve alanımda çıkan yenilikleri yakından takip ediyorum. 
 
-💻 Şu anda aktif olarak veri bilimi projeleri ile uğraşıyor yeni bir şeyler üretmek için çabalıyorum.
+💻 Şu anda aktif olarak veri bilimi projeleri ile uğraşıyor yeni bir şeyler üretmek için çalışıyorum.
 
 📚︎ Yazılımdan arta kalan vakitlerin bir kısmında ise güncel teknojik gelişmeler ile ilgili okuma yapıyorum. 
 
@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... SQL
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
